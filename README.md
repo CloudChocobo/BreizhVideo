@@ -11,7 +11,7 @@ Ouvrir le fichier **breizhvideo_roles** et l'exécuter pour créer le rôle de s
 
 --------
 # Insertion des données dans la base
-Ouvrir le fichier **breizhvideo_script** et l'exécuter pour récupérer les données de la base. 
+Ouvrir le fichier **breizhvideo_insertion** et l'exécuter pour récupérer les données de la base. 
 
 
 --------
